@@ -1,0 +1,9 @@
+Package: net.tateu.eventcreator
+Name: Event Creator
+Depends: firmware (>=7.0), mobilesubstrate, libactivator
+Version: 1.0.0~beta1
+Architecture: iphoneos-arm
+Description: Open the Calender Event creation window using an Activator action.
+Maintainer: tateu (Josh Harris) <tateu@tateu.net>
+Author: tateu (Josh Harris) <tateu@tateu.net>
+Section: Tweaks
